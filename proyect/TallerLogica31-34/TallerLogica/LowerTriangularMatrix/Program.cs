@@ -40,7 +40,7 @@ namespace MatrixExercises
         static void Main(string[] args)
         {
             Console.Write("Ingrese orden de la matriz: ");
-            
+
             if (int.TryParse(Console.ReadLine(), out int n) && n > 0)
             {
                 LowerTriangularMatrix matrix = new LowerTriangularMatrix(n);

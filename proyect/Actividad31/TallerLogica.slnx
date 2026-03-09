@@ -1,8 +1,0 @@
-<Solution>
-  <Folder Name="/31/">
-    <Project Path="LowerTriangularAreaMatrix/LowerTriangularAreaMatrix.csproj" Id="285ad043-0b34-4759-83ac-e8622e1e64b0" />
-  </Folder>
-  <Folder Name="/34/">
-    <Project Path="../TallerLogica/Hourglass/Hourglass.csproj" Id="e4954c16-90c2-429c-a9de-55ae050a6c09" />
-  </Folder>
-</Solution>
