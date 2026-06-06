@@ -1,8 +1,0 @@
-<Solution>
-  <Folder Name="/31/">
-    <Project Path="LowerTriangularMatrix/LowerTriangularMatrix.csproj" Id="b8fad90d-4762-4171-a826-77937cd5c5e8" />
-  </Folder>
-  <Folder Name="/32/">
-    <Project Path="Hourglass/Hourglass.csproj" Id="f832d58d-72d9-4483-aeb5-2b347a9cfb9f" />
-  </Folder>
-</Solution>
